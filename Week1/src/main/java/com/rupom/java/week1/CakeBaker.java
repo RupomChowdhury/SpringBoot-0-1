@@ -1,4 +1,4 @@
-package com.rupom.javahomework.week1.Java.Homework;
+package com.rupom.java.week1;
 
 import org.springframework.stereotype.Service;
 

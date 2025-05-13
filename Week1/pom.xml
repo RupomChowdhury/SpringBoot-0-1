@@ -8,7 +8,7 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rupom.javahomework.week1</groupId>
+	<groupId>com.rupom.java.week1</groupId>
 	<artifactId>Week1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Week1</name>
